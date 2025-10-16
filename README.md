@@ -1,3 +1,2 @@
 #1
-
-https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/cnoC/image/JQ_HusUnDX9WANSKsVQP4CzcfV8.jpg
+<img width="675" height="603" alt="image" src="https://github.com/user-attachments/assets/2445d3b7-6c76-4497-944c-62e1955b8e1a" />
